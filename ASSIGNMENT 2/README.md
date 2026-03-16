@@ -85,5 +85,4 @@ Output screenshots are included in this repository.
 ## Author
 
 Submitted as part of **FastAPI Internship Assignment**
-
-By Akshaya 
+  By Akshaya 
